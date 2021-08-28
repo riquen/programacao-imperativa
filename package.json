@@ -1,0 +1,19 @@
+{
+  "name": "programacao-imperativa",
+  "version": "1.0.0",
+  "description": "Certified Tech Developer - Digital House",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riquen/programacao-imperativa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riquen/programacao-imperativa/issues"
+  },
+  "homepage": "https://github.com/riquen/programacao-imperativa#readme"
+}
